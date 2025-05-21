@@ -1,0 +1,16 @@
+{
+  "id": "4840644",
+  "name": "数字人-农发行",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15765344",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    }
+  ]
+}

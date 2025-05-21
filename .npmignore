@@ -1,0 +1,9 @@
+/src
+package-lock.json
+.eslintignore
+.eslintrc.js
+.gitignore
+jest.config.js
+prettier.config.js
+rollup.config.js
+tsconfig.json
