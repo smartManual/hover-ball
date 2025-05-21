@@ -1,9 +1,11 @@
+/.github
 /src
-package-lock.json
 .eslintignore
 .eslintrc.js
 .gitignore
+.npmrc
 jest.config.js
+package-lock.json
 prettier.config.js
 rollup.config.js
 tsconfig.json

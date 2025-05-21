@@ -1,7 +1,7 @@
 {
   "name": "@zero-org/hover-ball",
   "version": "1.0.0",
-  "description": "悬浮球",
+  "description": "iframe悬浮球",
   "main": "dist/hoverBall.cjs.js",
   "module": "dist/hoverBall.esm.js",
   "browser": "dist/hoverBall.min.js",
@@ -14,9 +14,9 @@
   },
   "keywords": [
     "hover-ball",
-    "figure",
     "hover",
-    "ball"
+    "ball",
+    "iframe"
   ],
   "author": "jjzuo",
   "license": "MIT",
@@ -56,5 +56,13 @@
   "dependencies": {
     "interactjs": "^1.10.27",
     "rollup-plugin-dts": "^6.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:smartManual/hover-ball.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smartManual/hover-ball/issues"
+  },
+  "homepage": "https://github.com/smartManual/hover-ball/#readme"
 }
